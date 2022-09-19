@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @mirzaaadam
-- 👀 I’m interested in AI, Game Development, and Cybersec
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @mirzaaadam. Nice to Meet You!
+- 👀 I’m interested in AI, Software Engineering, and Game Design.
 
 <!---
 mirzaaadam/mirzaaadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
