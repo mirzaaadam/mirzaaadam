@@ -1,7 +1,7 @@
-# Hiya! I'm Aadam!
+# Hello, my name is Aadam
 
 ## About Me:
-### Software Engineer versed in C, C++, and Python, and building familiarity with frontend languages like CSS, JS, and HTML through projects professional and personal.
+### Software Engineer well-versed in C, C++, Java, and Python, and building familiarity with frontend languages like CSS, JS, and HTML through projects professional and personal.
 
 
 I'm current 2nd year Computer Science major at the University of California, Davis. My infatuation with technology has been a driving force in my career and life choices ever since I was a child. The sheer versatility of computational systems continue to amaze and inspire me, which is why I seek to utilize my growing expertise in software to improve the world around me. This is evident in almost all of my projects, such as [Riskquipo](https://github.com/mirzaaadam/Riskquipo-HackDavis2022), which was my group's entry to the Hackdavis 2022 hackathon. Along with providing me with a pathway into frontend design (specifically through the use of HTML/CSS and JavaScript), Riskquipo utilized an artificial intelligence model to predict the risk of pregnancy complications based on various biometric factors, which would prove invaluable to those without easy access to medical facilities. After the conclusion of my first year as a college student, I began to reflect on all of the methods myself and my peers had used to maximize productity; One method, the Pomodoro Technique, stood out to me as the one that worked the best, however due to its dependence on youtube-video based timers, the duration of the cycical work-rest phases the method consisted of had rather set-in-stone durations. To remedy this, and make the Pomodoro technique more modular and accessible, I started on my second Project, [Pomotimer](https://github.com/mirzaaadam/Pomotimer), an open-source terminal based adaptation of the Pomodoro technique.
@@ -15,7 +15,11 @@ I'm current 2nd year Computer Science major at the University of California, Dav
   - Scripted Frontend web page for Machine Learning project using Gaussian Naive Bayes model to predict risk of mother/child mortality during pregnancy using biometric risk factors. 
 
 - September 2022: [Pomotimer](https://github.com/mirzaaadam/Pomotimer) (C++)
-  - Implemented the ‘Pomodoro’ method of study through the creation of an open-source two-stage timer wherein user defines length of cyclical rest and work periods through simple command line input.                   
+  - Implemented the ‘Pomodoro’ method of study through the creation of an open-source two-stage timer wherein user defines length of cyclical rest and work periods through simple command line input.      
+
+
+- October 2022-Present: [Hooli] (Swift + SwiftUI)
+  - Implemented avatar creation and accompanying user interface, allowing for the assembling and encoding of user-customizable profile images stored and parsed throughout scheduling app. App in question, Hooli, is to be launched on the app store by March 2023.  
         
          
 
