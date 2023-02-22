@@ -18,7 +18,7 @@ I'm current 2nd year Computer Science major at the University of California, Dav
   - Implemented the ‘Pomodoro’ method of study through the creation of an open-source two-stage timer wherein user defines length of cyclical rest and work periods through simple command line input.      
 
 
-- October 2022-Present: [Hooli] (Swift + SwiftUI)
+- October 2022-Present: Hooli (Swift + SwiftUI)
   - Implemented avatar creation and accompanying user interface, allowing for the assembling and encoding of user-customizable profile images stored and parsed throughout scheduling app. App in question, Hooli, is to be launched on the app store by March 2023.  
         
          
