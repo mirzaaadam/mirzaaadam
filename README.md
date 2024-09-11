@@ -1,10 +1,9 @@
 # Hello, my name is Aadam
 
 ## About Me:
-### Software Engineer well-versed in C, C++, Java, and Python, and building familiarity with frontend languages like CSS, JS, and HTML through projects professional and personal.
+### Software Engineer with Full-Stack Development Experience, fluent in the usage of JavaScript (MERN stack, Angular.js, Material_UI), Python (Pandas, NumPy, SciKit-Learn), and C++.
 
-
-I'm current 2nd year Computer Science major at the University of California, Davis. My infatuation with technology has been a driving force in my career and life choices ever since I was a child. The sheer versatility of computational systems continue to amaze and inspire me, which is why I seek to utilize my growing expertise in software to improve the world around me. This is evident in almost all of my projects, such as [Riskquipo](https://github.com/mirzaaadam/Riskquipo-HackDavis2022), which was my group's entry to the Hackdavis 2022 hackathon. Along with providing me with a pathway into frontend design (specifically through the use of HTML/CSS and JavaScript), Riskquipo utilized an artificial intelligence model to predict the risk of pregnancy complications based on various biometric factors, which would prove invaluable to those without easy access to medical facilities. After the conclusion of my first year as a college student, I began to reflect on all of the methods myself and my peers had used to maximize productity; One method, the Pomodoro Technique, stood out to me as the one that worked the best, however due to its dependence on youtube-video based timers, the duration of the cycical work-rest phases the method consisted of had rather set-in-stone durations. To remedy this, and make the Pomodoro technique more modular and accessible, I started on my second Project, [Pomotimer](https://github.com/mirzaaadam/Pomotimer), an open-source terminal based adaptation of the Pomodoro technique.
+I am a Senior at the University of California, Davis, pursuing a Bachelor of Science in Computer Science with an expected graduation in December 2024. My passion for technology and its potential to transform the world has driven my academic and professional journey. I am particularly interested in full-stack application development, machine learning, and cloud-based solutions. In my most recent role as a Full-Stack Application Development Engineer Intern at Centene, I led a cross-functional team to modernize internal processes by developing a web application using Angular.js and Node.js. Additionally, I implemented serverless document processing using AWS Lambda, optimizing workflow and reducing intake delays. Throughout my career, I've had the opportunity to work on various impactful projects. For instance, Riskquipo, a HackDavis 2022 entry, aimed to help predict pregnancy complications using biometric data and artificial intelligence. In another personal project, Pomotimer, I created a modular, customizable timer to improve productivity using the Pomodoro technique. My skills span across programming languages (C/C++, Python, JavaScript, Swift), frameworks (React, Angular, Node.js), and cloud technologies (AWS). I am always eager to expand my expertise and collaborate on projects that use technology to improve lives. Let's connect and build something amazing!
 
 ## Projects 
 - June 2021 - Present : Research Intern @UC Davis under [Karen Moxon](https://bme.ucdavis.edu/people/karen-moxon).  
@@ -20,9 +19,6 @@ I'm current 2nd year Computer Science major at the University of California, Dav
 
 - October 2022-Present: Hooli (Swift + SwiftUI)
   - Implemented avatar creation and accompanying user interface, allowing for the assembling and encoding of user-customizable profile images stored and parsed throughout scheduling app. App in question, Hooli, is to be launched on the app store by March 2023.  
-        
-         
-
 
 <!---
 mirzaaadam/mirzaaadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
