@@ -1,24 +1,38 @@
 # Hello, my name is Aadam
 
 ## About Me:
-### Software Engineer with Full-Stack Development Experience, fluent in the usage of JavaScript (MERN stack, Angular.js, Material_UI), Python (Pandas, NumPy, SciKit-Learn), and C++.
+### Software Engineer with Full-Stack Development Experience, fluent in using JavaScript (MERN stack, Angular.js, Material_UI), Python (Pandas, NumPy, SciKit-Learn), and C++.
 
-I am a Senior at the University of California, Davis, pursuing a Bachelor of Science in Computer Science with an expected graduation in December 2024. My passion for technology and its potential to transform the world has driven my academic and professional journey. I am particularly interested in full-stack application development, machine learning, and cloud-based solutions. In my most recent role as a Full-Stack Application Development Engineer Intern at Centene, I led a cross-functional team to modernize internal processes by developing a web application using Angular.js and Node.js. Additionally, I implemented serverless document processing using AWS Lambda, optimizing workflow and reducing intake delays. Throughout my career, I've had the opportunity to work on various impactful projects. For instance, Riskquipo, a HackDavis 2022 entry, aimed to help predict pregnancy complications using biometric data and artificial intelligence. In another personal project, Pomotimer, I created a modular, customizable timer to improve productivity using the Pomodoro technique. My skills span across programming languages (C/C++, Python, JavaScript, Swift), frameworks (React, Angular, Node.js), and cloud technologies (AWS). I am always eager to expand my expertise and collaborate on projects that use technology to improve lives. Let's connect and build something amazing!
+GitHub Profile Bio:
 
-## Projects 
+Hi there! I'm Aadam, a Senior Computer Science student at UC Davis, graduating in December 2024. Ever since I was a child, technology has always had a significant influence on me. As such, I constantly strive to expand my technical acumen and use my expertise to improve the world around me. In my time at UC Davis thus far, I've worked on various projects ranging from full-stack application development to machine learning, gaining a wealth of experience in the process. One of my favorite experiences has been working at Centene as a Full-Stack Application Development Engineer Intern, where we modernize internal systems using Angular.js, Node.js, and AWS. It's been a wonderful challenge thus far, and I continue to learn more about creating and maintaining efficient, real-world solutions. 
+
+Of the projects that I've worked on, one of my favorites is [Riskquipo](https://github.com/mirzaaadam/Riskquipo-HackDavis2022), an AI-powered web application developed using the MERN stack that predicts pregnancy complications based on biometric risk factors. Additionally, I also learned a great deal working on BikeSafe, a Computer-Vision based project that uses a custom-trained machine-learning model to detect and alert cyclists of incoming vehicle traffic. 
+
+I enjoy working with a variety of technologies and frameworks, such as JavaScript, Python, and C++, using tools such as React, Node.js, and AWS to bring concepts to fruition. Furthermore, I’m always excited to learn more and work on projects that make a difference. Feel free to check out my projects or get in touch – I’d love to collaborate!
+
+## Projects
+- October 2022-September 2024: Hooli (Swift + SwiftUI)
+  - Implemented avatar creation and accompanying user interface, allowing for the assembling and encoding of user-customizable profile images stored and parsed throughout scheduling app.
+  - Hooli was released on Sept. 10, 2024, and is currently available for download on the iOS app store.
+    
+- May 2024: BikeSafe (Python)
+  - Trained and implemented a convolutional neural net using Keras to alert bikers of automobiles in blind spots, with end goal of increasing road safety for students commuting to class.
+  - Tuned CNN model as a hybrid machine learning model consisting of Keras’s VGG16 model for feature extraction, with customized secondary model as binary classifier. 
+
+- May 2023: CareShare (Node.js + CSS + HTML + MySQL)
+  - Scripted Backend code for logging into and listing items in marketplace website facilitating donation between students in Node.js.
+  - Item listings and user-associated login details stored remotely using MySQL. Created for furthering sustainability goals for HackDavis 2023 hackathon.                           
+
+- September 2022: [Pomotimer](https://github.com/mirzaaadam/Pomotimer) (C++)
+  - Implemented the ‘Pomodoro’ method of study through the creation of an open-source two-stage timer wherein user defines length of cyclical rest and work periods through simple command line input.
+    
+- April 2022: [Riskquipo](https://github.com/mirzaaadam/Riskquipo-HackDavis2022-) (Hackdavis 2022 Submission, JavaScript + HTML + CSS)
+  - Scripted Frontend web page for Machine Learning project using Gaussian Naive Bayes model to predict risk of mother/child mortality during pregnancy using biometric risk factors.
+    
 - June 2021 - Present : Research Intern @UC Davis under [Karen Moxon](https://bme.ucdavis.edu/people/karen-moxon).  
   - Wrote programs in python that conducted dimensionality reduction on multi-featured datasets (via machine learning algorithms) 
   - Conducted linear discriminant analysis on a collection of data totaling over thousands of entries derived from rat kinematics with resultant programs 
-
-- April 2022: [Riskquipo](https://github.com/mirzaaadam/Riskquipo-HackDavis2022-) (Hackdavis 2022 Submission, JavaScript + HTML + CSS)
-  - Scripted Frontend web page for Machine Learning project using Gaussian Naive Bayes model to predict risk of mother/child mortality during pregnancy using biometric risk factors. 
-
-- September 2022: [Pomotimer](https://github.com/mirzaaadam/Pomotimer) (C++)
-  - Implemented the ‘Pomodoro’ method of study through the creation of an open-source two-stage timer wherein user defines length of cyclical rest and work periods through simple command line input.      
-
-
-- October 2022-Present: Hooli (Swift + SwiftUI)
-  - Implemented avatar creation and accompanying user interface, allowing for the assembling and encoding of user-customizable profile images stored and parsed throughout scheduling app. App in question, Hooli, is to be launched on the app store by March 2023.  
 
 <!---
 mirzaaadam/mirzaaadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
