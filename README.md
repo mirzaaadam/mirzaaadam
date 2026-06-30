@@ -1,7 +1,7 @@
 # Hello, my name is Aadam
 
 ## About Me:
-### Software Engineer with Full-Stack Development Experience, fluent in using JavaScript (MERN stack, Angular.js, Material_UI), Python (Pandas, NumPy, SciKit-Learn), and C++.
+### Full-Stack Application Development Engineer with experience in AI-Driven development across the frontend (Angular, React, TypeScript), Backend (Python, Node.JS, RxJS, C++), and the Cloud (AWS Lambda, S3, DynamoDB,...).
 
 GitHub Profile Bio:
 
